@@ -25,7 +25,7 @@ To assist Lending Club in mitigating credit losses by effectively distinguishing
   Examine default rates in relation to borrower characteristics such as credit score, employment history, income level, and other relevant factors.
 
 ## General Information
-- **Origins**: Initiated as a joint effort between data scientists and financial experts at Lending Club.
+- **Origins**: Initiated as a joint effort between budding data scientists for a EDA case study on Lending Club.
 - **Context**: Aimed to integrate advanced analytics into financial decisions to optimize outcomes.
 - **Motivation**: Triggered by variable loan repayment rates, suggesting the potential for improved risk assessment and customer segmentation to boost profitability.
 
