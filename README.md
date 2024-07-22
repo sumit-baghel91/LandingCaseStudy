@@ -1,9 +1,27 @@
-# Landling Club
-> Outline a brief description of your project.
+# Lending club case study
+The Lending Club case study typically revolves around analyzing the company’s loan data to predict loan defaults, identify risk factors, and recommend strategies for investment. Lending Club operates an online lending platform that matches borrowers with investors. The dataset usually includes various borrower information such as loan amount, term, interest rate, grade, employment details, credit history, and more.
+
+## Objectives
+To assist Lending Club in mitigating credit losses by effectively distinguishing between loan applicants who are likely to repay and those who are not.
+
+### Identify Profitable Applicants:
+
+### Objective: 
+  Determine the characteristics of applicants who are likely to repay their loans to ensure these profitable opportunities are not missed.
+### Key Task: 
+  Analyze historical data to identify patterns or factors that indicate a high likelihood of repayment.
+  
+### Minimize Risk of Defaults:
+
+### Objective:
+  Identify the traits and patterns of applicants who are at higher risk of default to prevent potential financial losses.
+### Key Task:
+  Examine default rates in relation to borrower characteristics such as credit score, employment history, income level, and other relevant factors.
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Lending Club Case Study](#lending-club-case-study)
+* [Objectives](#objectives)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
